@@ -129,13 +129,13 @@ try:
 except ValueError:
     is_bin = False
     print("not a binary number")
-
-ask = input("Convert to hex or dec or both?: ")
-ask = ask.upper()
-ask = ask.strip()
 ```
 action choice manager
 ```
+ask = input("Convert to hex or dec or both?: ")
+ask = ask.upper()
+ask = ask.strip()
+
 if ask == "DEC":
     bin2dex(bin)
 elif ask == "HEX":
