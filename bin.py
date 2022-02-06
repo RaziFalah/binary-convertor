@@ -1,4 +1,5 @@
 #Updated version
+#Go to https://github.com/RaziFalah/binary-convertor/releases/tag/1.0.0v in order to download the .exe file
 #=========================================================================================================================
 #Made by Razi Falah
 #Copyright (C) 2022 razifalah.com
