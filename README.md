@@ -1,4 +1,4 @@
-<h2 style=color:red;">⚠️This md file cover only the previous release in tech-view.</h2>
+![#f03c15]<h2>⚠️This md file cover only the previous release in tech-view.</h2>
 
 # binary-convertor
 very basic cli program, binary convertor bin to hex or bin to dec
