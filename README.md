@@ -1,3 +1,5 @@
+[Download the .exe file for normal use](https://link-url-here.org)
+
 
 ```diff
 -⚠️This md file cover only the previous release in tech-view.
