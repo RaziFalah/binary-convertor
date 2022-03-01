@@ -1,3 +1,12 @@
+<h1>
+  <span style="color:red">
+  
+  Please note, this program is meant to use on weeker devices such as calculators that's why it has basic functionalities such as else if.
+    since it does not have any external resources and powerful functions
+  
+    </span>
+  </h1>
+
 
 ```diff
 -⚠️This md file cover only the previous release in tech-view.
