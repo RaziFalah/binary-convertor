@@ -6,6 +6,25 @@
 #https://razifalah.com
 #According to the applied license: LICENSE GNU General Public License v3.0
 #You do not have the right to republish sell or edit this project, use it only for private use or educational purposes
+
+
+
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#  Please note, this program is meant to use on weeker devices such as calculators that's why it has basic functionalities such as else if. # 
+#  since it does not have any external resources and powerful functions # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
+
+
+
+
+
+
+
 from re import A
 from time import sleep
 from cv2 import repeat
