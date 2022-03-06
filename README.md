@@ -2,7 +2,7 @@
   <span style="color:red">
   
   Please note, this program is meant to use on weaker devices such as calculators that's why it has basic functionalities such as else if.
-    since it does not have any external resources and powerful functions
+    since it does not have any external resources and powerful functions the code should be smooth and convert friendly
   
     </span>
   </h1>
