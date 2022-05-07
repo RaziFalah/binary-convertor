@@ -14,7 +14,7 @@
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 #  Please note, this program is meant to use on weeker devices such as calculators that's why it has basic functionalities such as else if. # 
-#  since it does not have any external resources and powerful functions # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#  since it does not have any external resources and powerful functions it should be convert friendly with basic langugaes  ################# 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 
